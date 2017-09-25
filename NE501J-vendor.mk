@@ -37,7 +37,7 @@ PRODUCT_COPY_FILES += \
     vendor/NUBIA/NE501J/proprietary/lib/libcurl_camera.so:system/lib/libcurl_camera.so \
     vendor/NUBIA/NE501J/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/NUBIA/NE501J/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/NUBIA/NE501J/proprietary/lib/hw/camera.msm8226.so:system/lib/hw/camera.msm8226.so \
+    vendor/NUBIA/NE501J/proprietary/lib/hw/camera.vendor.msm8226.so:system/lib/hw/camera.vendor.msm8226.so \
     vendor/NUBIA/NE501J/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/NUBIA/NE501J/proprietary/lib/libchromatix_imx135_liveshot.so:system/lib/libchromatix_imx135_liveshot.so \
     vendor/NUBIA/NE501J/proprietary/lib/libDocPretty.so:system/lib/libDocPretty.so \
